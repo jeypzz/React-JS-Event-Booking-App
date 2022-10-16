@@ -1,6 +1,6 @@
 # Event Booking Web App
 
-made with React JS
+Static landing page website made in React
 
 ## Demo
 
