@@ -4,7 +4,7 @@ Static landing page website made in React
 
 ## Demo
 
-[Link](eventbookingapp.vercel.app)
+[Link](https://eventbookingapp.vercel.app/)
 
 ## Getting Started
 
