@@ -1,6 +1,6 @@
-# Event Site
+# Event Booking Web App
 
-An Event Site built with React.
+made with React JS
 
 ## Demo
 
@@ -28,14 +28,3 @@ Build and run the compiled version with the build and start scripts:
 
     npm run build
     npm run start
-
-## Contact
-
-Feel free to find and contact me at the following:
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CMittell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mittell/)
-
-</div>
