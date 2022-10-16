@@ -4,7 +4,7 @@ Static landing page website made in React
 
 ## Demo
 
-[Link](https://friendly-scone-3cabb2.netlify.app/)
+[Link](eventbookingapp.vercel.app)
 
 ## Getting Started
 
